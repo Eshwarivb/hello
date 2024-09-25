@@ -1,0 +1,10 @@
+def count_spaces(s):
+   return S.count(` `)
+
+#example usage
+S=input()
+space_count=count_sapce(s)
+print(space_count)
+
+
+
